@@ -8,7 +8,7 @@
 
 ```mermaid
   flowchart LR;
-      A-->B;
+      A(Start)-->B;
       A-->C;
       B-->D;
       C-->D;
