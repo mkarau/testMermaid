@@ -13,7 +13,7 @@ config:
       theme: neutral
 ---
 flowchart LR;
-      A([Start])-->B;
+      A([Start])-->|October 1st| B;
       A-->C;
       B-->D;
       C-->D([End]);
