@@ -10,7 +10,7 @@
 ---
 config:
       look: handDrawn
-      theme: neutral
+      theme: dark
 ---
 flowchart LR;
       A([Start])-->|October 1st| B;
