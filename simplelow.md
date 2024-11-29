@@ -8,8 +8,8 @@
 
 ```mermaid
   flowchart LR;
-      A(Start)-->B;
+      A([Start])-->B;
       A-->C;
       B-->D;
-      C-->D;
+      C-->D([End]);
 ```
