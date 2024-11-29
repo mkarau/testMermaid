@@ -7,7 +7,12 @@
 ```
 
 ```mermaid
-  flowchart LR;
+---
+config:
+      look: handDrawn
+      theme: neutral
+---
+flowchart LR;
       A([Start])-->B;
       A-->C;
       B-->D;
