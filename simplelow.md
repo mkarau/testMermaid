@@ -18,6 +18,6 @@ flowchart LR;
       E-->|November 15th| F[Public Announcement of CAC Membership]
       F-->|December 1st| G[First Capstone Meeting for students completing their 5th semester]
       A-->C;
-      B-->D;
+      B-->D([Hello]);
       C-->D([End]);
 ```
